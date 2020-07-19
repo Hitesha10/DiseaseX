@@ -5,7 +5,7 @@ import './cars.css';
 import { Button } from 'reactstrap';
 import React, { PureComponent } from 'react';
 import image1 from '../images/hc1.jpg'
-import image2 from '../images/admin2.jpg';
+import image2 from '../images/adminpc.jpg';
 class Home extends PureComponent {
 
   render() {
@@ -35,9 +35,7 @@ class Home extends PureComponent {
       </div>
 
     </div>
-    <div className="carousel-item">
-      <img className="d-block w-100" src="..." alt="Third slide"/>
-    </div>
+  
   </div>
   <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
     <span className="carousel-control-prev-icon" aria-hidden="true"></span>
