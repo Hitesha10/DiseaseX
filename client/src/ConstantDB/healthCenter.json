@@ -1,0 +1,69 @@
+{
+  "healthCenterSchema": [
+    {
+      "address": "N/123 KhatiPura Jaipur",
+      "email": "udyog@gmail.com",
+      "contact": "0145-2445631",
+      "name": "Udyog Kendra",
+      "latlng": "41.40338, 2.17403",
+      "incharge": "Mr.Stephen",
+      "pincode": "301023",
+      "web": "udyogvibhag.in",
+      "total_affected": 14,
+      "total_recoverd": 16,
+      "total_deaths": 3
+    },
+    {
+      "address": "Narayan Circle Bihar",
+      "email": "suraksha@yahoo.com",
+      "contact": "1234-9876541",
+      "name": "Suraksha Vibhag ",
+      "latlng": "41.40334, 2.17402",
+      "incharge": "Miss Narayani",
+      "pincode": "305001",
+      "web": "surakshakendra.in",
+      "total_affected": 5,
+      "total_recoverd": 3,
+      "total_deaths": 0
+    },
+    {
+      "address": "124/67 Malviya Nagar",
+      "email": "helpcenter@gmail.com",
+      "contact": "9876543210",
+      "name": "Help Center",
+      "latlng": "41.50338, 2.17403",
+      "incharge": "Ketan Lal",
+      "pincode": "234516",
+      "web": "helpcenter.co.in",
+      "total_affected": 8,
+      "total_recoverd": 2,
+      "total_deaths": 3
+    },
+    {
+      "address": "Adarsh Nagar,Asansole",
+      "email": "udyogvibhag@rediffmail.com",
+      "contact": "1236-7868581",
+      "name": "Udyog Vibhag",
+      "latlng": "41.40338, 1.17400",
+      "incharge": "Mrs. Shikha Garg",
+      "pincode": "908076",
+      "web": "udyognagar.co.in",
+      "total_affected": 40,
+      "total_recoverd": 10,
+      "total_deaths": 20
+    },
+    {
+      "address": "678/28 N/22 Pansheel Nagar,Ajmer",
+      "email": "mahilakendra@gmial.com",
+      "contact": "8979345210",
+      "name": "Mahila Help Center",
+      "latlng": "41.40238, 2.10003",
+      "incharge": "Mis Deepti SInghal",
+      "pincode": "305001",
+      "web": "mahilaseva.in",
+      "total_affected": 67,
+      "total_recoverd": 12,
+      "total_deaths": 5
+    }
+  ]
+}

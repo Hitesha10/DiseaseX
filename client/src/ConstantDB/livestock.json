@@ -1,0 +1,32 @@
+{
+  "livestockSchema": [
+    {
+      "breed": "Cattle",
+      "population": "5000000"
+    },
+    {
+      "breed": "Buffalo",
+      "population": "6000000"
+    },
+    {
+      "breed": "Sheep",
+      "population": "8000000"
+    },
+    {
+      "breed": "Goat",
+      "population": "10000000"
+    },
+    {
+      "breed": "Pig",
+      "population": "4000000"
+    },
+    {
+      "breed": "Poultry",
+      "population": "100000000"
+    },
+    {
+      "breed": "Duck",
+      "population": "9000000"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "DB": [
+    {
+      "lat": "12.34567",
+      "long": "98.76543",
+      "disease": "Blackleg",
+      "diseased": true
+    },
+    {
+      "lat": "12.34765",
+      "long": "93.76543",
+      "disease": "Blackleg",
+      "recovered": true
+    },
+    {
+      "lat": "14.34567",
+      "long": "98.86543",
+      "disease": "Enterotoxaemia (pulpy kidney)",
+      "recovered": true
+    },
+    {
+      "lat": "12.34444",
+      "long": "98.01010",
+      "disease": "Classical swine fever",
+      "diseased": true
+    },
+    {
+      "lat": "10.34567",
+      "long": "100.76543",
+      "disease": "Azurskey's",
+      "diseased": true
+    },
+    {
+      "lat": "21.34567",
+      "long": "80.76543",
+      "disease": "Blackleg",
+      "deceased": true
+    },
+    {
+      "lat": "18.34507",
+      "long": "90.70543",
+      "disease": "Azurskey's",
+      "recovered": true
+    },
+    {
+      "lat": "12.00000",
+      "long": "98.42424",
+      "disease": "Classical swine fever",
+      "diseased": true
+    },
+    {
+      "lat": "25.87875",
+      "long": "92.79543",
+      "disease": "Enterotoxaemia (pulpy kidney)",
+      "deceased": true
+    },
+    {
+      "lat": "17.34567",
+      "long": "91.76543",
+      "disease": "Blackleg",
+      "deceased": true
+    },
+    {
+      "lat": "12.30067",
+      "long": "99.77543",
+      "disease": "Enterotoxaemia (pulpy kidney)",
+      "recovered": true
+    },
+    {
+      "lat": "22.12345",
+      "long": "98.12345",
+      "disease": "Azurskey's",
+      "diseased": true
+    },
+    {
+      "lat": "34.23410",
+      "long": "98.9995",
+      "disease": "Blackleg",
+      "diseased": true
+    },
+    {
+      "lat": "19.34567",
+      "long": "96.77743",
+      "disease": "Blackleg",
+      "diseased": true
+    },
+    {
+      "lat": "29.55566",
+      "long": "78.76043",
+      "disease": "Classical swine fever",
+      "deceased": true
+    },
+    {
+      "lat": "12.34567",
+      "long": "88.26242",
+      "disease": "Enterotoxaemia (pulpy kidney)",
+      "deceased": true
+    },
+    {
+      "lat": "45.33577",
+      "long": "85.77443",
+      "disease": "Classical swine fever",
+      "recovered": true
+    },
+    {
+      "lat": "24.34521",
+      "long": "105.90801",
+      "disease": "Azurskey's",
+      "recovered": true
+    },
+    {
+      "lat": "6.34555",
+      "long": "83.44243",
+      "disease": "Enterotoxaemia (pulpy kidney)",
+      "diseased": true
+    },
+    {
+      "lat": "4.12222",
+      "long": "75.75757",
+      "disease": "Azurskey's",
+      "recovered": true
+    },
+    {
+      "lat": "34.11111",
+      "long": "69.22222",
+      "disease": "Blackleg",
+      "diseased": true
+    },
+    {
+      "lat": "13.98897",
+      "long": "94.65656",
+      "disease": "Azurskey's",
+      "diseased": true
+    },
+    {
+      "lat": "15.21345",
+      "long": "95.00871",
+      "disease": "Enterotoxaemia (pulpy kidney)",
+      "deceased": true
+    },
+    {
+      "lat": "32.34567",
+      "long": "72.00001",
+      "disease": "Blackleg",
+      "deceased": true
+    },
+    {
+      "lat": "32.34431",
+      "long": "98.76500",
+      "disease": "Classical swine fever",
+      "deceased": true
+    },
+    {
+      "lat": "33.32244",
+      "long": "90.00100",
+      "disease": "Blackleg",
+      "diseased": true
+    },
+    {
+      "lat": "26.34444",
+      "long": "100.10111",
+      "disease": "Azurskey's",
+      "diseased": true
+    },
+    {
+      "lat": "35.34452",
+      "long": "93.54321",
+      "disease": "Azurskey's",
+      "recovered": true
+    },
+    {
+      "lat": "88.88887",
+      "long": "87.65472",
+      "disease": "Enterotoxaemia (pulpy kidney)",
+      "deceased": true
+    },
+    {
+      "lat": "33.33334",
+      "long": "89.65890",
+      "disease": "Blackleg",
+      "recovered": true
+    }
+  ]
+}

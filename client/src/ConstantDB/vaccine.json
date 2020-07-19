@@ -1,0 +1,34 @@
+{
+  "vaccineSchema": [
+    {
+      "name": "Aujeszky’s",
+      "scientificName": "Clostridium chauvoei",
+      "duration": "6",
+      "forHuman": false
+    },
+    {
+      "name": "Bluetongue",
+      "scientificName": "Clostridium speticum",
+      "duration": "4",
+      "forHuman": true
+    },
+    {
+      "name": "Bovine tuberculosis",
+      "scientificName": "Clostridium novyi Type B",
+      "duration": "3",
+      "forHuman": false
+    },
+    {
+      "name": "Brucellosis",
+      "scientificName": "Clostridium tetani",
+      "duration": "9",
+      "forHuman": false
+    },
+    {
+      "name": "Classical swine fever",
+      "scientificName": "Clostridium botulinum Type C & D",
+      "duration": "1",
+      "forHuman": false
+    }
+  ]
+}

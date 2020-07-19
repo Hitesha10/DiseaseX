@@ -1,0 +1,64 @@
+{
+  "animalOwner": [
+    {
+      "name": "Brad Traversey",
+      "address": "9 West Ridgeview Dr. Muskogee",
+      "email": "brad@gmail.com",
+      "contact": "9461231235"
+    },
+    {
+      "name": "Pabelo Stark",
+      "address": "99 East Plumb Branch St. Canton",
+      "email": "pabelo@yahoo.com",
+      "contact": "865432107"
+    },
+    {
+      "name": "Michael Faraday",
+      "address": "8 Pleasant Rd. Glen Burnie",
+      "email": "michael@gmail.com",
+      "contact": "9100020123"
+    },
+    {
+      "name": "Lory Clinton",
+      "address": "9501 Madison Dr.Elkton",
+      "email": "lory@rediffmail.com",
+      "contact": "7756432190"
+    },
+    {
+      "name": "Harsha Sharma",
+      "address": "326 Trout Dr. Anaheim",
+      "email": "harsha@techinfosolutions.in",
+      "contact": "7890564321"
+    },
+    {
+      "name": "Pari Goyal",
+      "address": "58 Delaware Street Randolph",
+      "email": "pari@gmail.com",
+      "contact": "7868564532"
+    },
+    {
+      "name": "Yamashaki Helly",
+      "address": "7091 Alton Court San Jose",
+      "email": "hellyy@yahoo.com",
+      "contact": "9400786643"
+    },
+    {
+      "name": "Nagasaki Yukada",
+      "address": "8729 NE. Liberty Ave.San Pablo, CA 94806",
+      "email": "nagada@gmail.com",
+      "contact": "9123456587"
+    },
+    {
+      "name": "Moly Richerd Gill",
+      "address": "515 George St. Rosemead, CA 91770",
+      "email": "moly@rediffmail.com",
+      "contact": "8979695634"
+    },
+    {
+      "name": "Sonia Parashar",
+      "address": "68 S. Dunbar Rd. Los Angeles",
+      "email": "sonia@gmail.com",
+      "contact": "1234567890"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "animalSchema": [
+    {
+      "liveStock": {
+        "breed": "Cattle",
+        "population": "5000000"
+      },
+      "owner": {
+        "name": "Michael Faraday",
+        "address": "8 Pleasant Rd. Glen Burnie",
+        "email": "michael@gmail.com",
+        "contact": "9100020123"
+      },
+      "nextVaccination": "24/12/2020",
+      "vaccine": {
+        "name": "Bluetongue",
+        "scientificName": "Clostridium speticum",
+        "duration": "4",
+        "forHuman": true
+      }
+    },
+    {
+      "liveStock": {
+        "breed": "Buffalo",
+        "population": "6000000"
+      },
+      "owner": {
+        "name": "Sonia Parashar",
+        "address": "68 S. Dunbar Rd. Los Angeles",
+        "email": "sonia@gmail.com",
+        "contact": "1234567890"
+      },
+      "nextVaccination": "12/11/2020",
+      "vaccine": {
+        "name": "Bluetongue",
+        "scientificName": "Clostridium speticum",
+        "duration": "4",
+        "forHuman": true
+      }
+    },
+    {
+      "liveStock": {
+        "breed": "Sheep",
+        "population": "8000000"
+      },
+      "owner": {
+        "name": "Pabelo Stark",
+        "address": "99 East Plumb Branch St. Canton",
+        "email": "pabelo@yahoo.com",
+        "contact": "865432107"
+      },
+      "nextVaccination": "20/08/2020",
+      "vaccine": {
+        "name": "Brucellosis",
+        "scientificName": "Clostridium tetani",
+        "duration": "9",
+        "forHuman": false
+      }
+    },
+    {
+      "liveStock": {
+        "breed": "Pig",
+        "population": "4000000"
+      },
+      "owner": {
+        "name": "Michael Faraday",
+        "address": "8 Pleasant Rd. Glen Burnie",
+        "email": "michael@gmail.com",
+        "contact": "9100020123"
+      },
+      "nextVaccination": "05/10/2020",
+      "vaccine": {
+        "name": "Classical swine fever",
+        "scientificName": "Clostridium botulinum Type C & D",
+        "duration": "1",
+        "forHuman": false
+      }
+    }
+  ]
+}

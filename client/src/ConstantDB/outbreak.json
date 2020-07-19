@@ -1,0 +1,179 @@
+{
+  "outBreakSchema": [
+    {
+      "disease": {
+        "name": "Enterotoxaemia (pulpy kidney)",
+        "scientificName": "Clostridium perfringens Type C & D",
+        "precautions": ["Soft,Easy to digest food"],
+        "symptoms": ["Indigestion", "Constipation", "Nosia"],
+        "morbidity": "30",
+        "mortality": "50",
+        "total_affected": "100000",
+        "total_deaths": "70000",
+        "livestock": [
+          {
+            "breed": "Pig",
+            "population": "4000000"
+          },
+          {
+            "breed": "Poultry",
+            "population": "100000000"
+          },
+          {
+            "breed": "Duck",
+            "population": "9000000"
+          }
+        ],
+        "vaccine": [
+          {
+            "name": "Bluetongue",
+            "scientificName": "Clostridium speticum",
+            "duration": "4",
+            "forHuman": true
+          },
+          {
+            "name": "Bovine tuberculosis",
+            "scientificName": "Clostridium novyi Type B",
+            "duration": "3",
+            "forHuman": false
+          },
+          {
+            "name": "Brucellosis",
+            "scientificName": "Clostridium tetani",
+            "duration": "9",
+            "forHuman": false
+          }
+        ]
+      },
+      "healthCenter": {
+        "address": "678/28 N/22 Pansheel Nagar,Ajmer",
+        "email": "mahilakendra@gmial.com",
+        "contact": "8979345210",
+        "name": "Mahila Help Center",
+        "latlng": "41.40238, 2.10003",
+        "incharge": "Mis Deepti SInghal",
+        "pincode": "305001",
+        "web": "mahilaseva.in"
+      },
+      "latlng": "55.45678,12.00987",
+      "deaths": "260",
+      "affected": "556"
+    },
+    {
+      "disease": {
+        "name": "Infectious bovine rhinotracheitis",
+        "scientificName": "bovine herpes virus type 1",
+        "precautions": ["Avoid Reproduction"],
+        "symptoms": ["Reproductive Parts failture", "Non-fertile"],
+        "morbidity": "70",
+        "mortality": "20",
+        "total_affected": "30000",
+        "total_deaths": "5000",
+        "livestock": [
+          {
+            "breed": "Sheep",
+            "population": "8000000"
+          },
+          {
+            "breed": "Goat",
+            "population": "10000000"
+          },
+          {
+            "breed": "Pig",
+            "population": "4000000"
+          },
+          {
+            "breed": "Poultry",
+            "population": "100000000"
+          },
+          {
+            "breed": "Duck",
+            "population": "9000000"
+          }
+        ],
+        "vaccine": [
+          {
+            "name": "Brucellosis",
+            "scientificName": "Clostridium tetani",
+            "duration": "9",
+            "forHuman": false
+          }
+        ]
+      },
+      "healthCenter": {
+        "address": "124/67 Malviya Nagar",
+        "email": "helpcenter@gmail.com",
+        "contact": "9876543210",
+        "name": "Help Center",
+        "latlng": "41.50338, 2.17403",
+        "incharge": "Ketan Lal",
+        "pincode": "234516",
+        "web": "helpcenter.co.in"
+      },
+      "latlng": "34.12345,56.12345",
+      "deaths": "200",
+      "affected": "500"
+    },
+    {
+      "disease": {
+        "name": "Blackleg",
+        "scientificName": "Clostridium chauvoei",
+        "precautions": [
+          "moving Lef Should be avoided",
+          "Consult Physician",
+          "Rich Diet"
+        ],
+        "symptoms": ["Dark Leg", "Heavy,Painful movement of legs"],
+        "morbidity": "60",
+        "mortality": "40",
+        "total_affected": "400000",
+        "total_deaths": "10000",
+        "livestock": [
+          {
+            "breed": "Cattle",
+            "population": "5000000"
+          },
+          {
+            "breed": "Buffalo",
+            "population": "6000000"
+          },
+          {
+            "breed": "Sheep",
+            "population": "8000000"
+          },
+          {
+            "breed": "Goat",
+            "population": "10000000"
+          }
+        ],
+        "vaccine": [
+          {
+            "name": "Classical swine fever",
+            "scientificName": "Clostridium botulinum Type C & D",
+            "duration": "1",
+            "forHuman": false
+          },
+          {
+            "name": "Bovine tuberculosis",
+            "scientificName": "Clostridium novyi Type B",
+            "duration": "3",
+            "forHuman": false
+          }
+        ]
+      },
+      "healthCenter": {
+        "address": "N/123 KhatiPura Jaipur",
+        "email": "udyog@gmail.com",
+        "contact": "0145-2445631",
+        "name": "Udyog Kendra",
+        "latlng": "41.40338, 2.17403",
+        "incharge": "Mr.Stephen",
+        "pincode": "301023",
+        "web": "udyogvibhag.in"
+      },
+      "latlng": "67.90123,55.23456",
+      "deaths": "300",
+      "affected": "800"
+    }
+  ]
+}
